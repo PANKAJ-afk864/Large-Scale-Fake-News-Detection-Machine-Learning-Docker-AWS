@@ -4,3 +4,6 @@ scikit-learn
 joblib
 pandas
 numpy
+streamlit
+scikit-learn
+joblib
