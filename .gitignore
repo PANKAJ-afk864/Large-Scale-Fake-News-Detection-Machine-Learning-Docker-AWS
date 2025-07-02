@@ -1,0 +1,14 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+
+# Model files (if you want to skip)
+*.pkl
+
+# OS junk files
+.DS_Store
+Thumbs.db
